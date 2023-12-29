@@ -156,3 +156,4 @@ cython_debug/
 models/GRU/Model_20-256-100-179402-_model.h5
 models/RNN/Model_20-256-100-179402-_model.h5
 models/LSTM/Model_20-256-100-179402-_model.h5
+input/glove/glove.6B.100d.txt
